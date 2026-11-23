@@ -1,3 +1,4 @@
+// One line: my agent optimized a file it had already deleted.
 import { mkdir, writeFile } from "node:fs/promises";
 
 const line = "My agent spent forty minutes optimizing a file it had already deleted, then asked me where it went.";
